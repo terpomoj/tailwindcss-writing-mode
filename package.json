@@ -1,0 +1,28 @@
+{
+  "name": "@terpomoj/tailwindcss-writing-mode",
+  "version": "1.0.0",
+  "description": "\"writing-mode\" for Tailwindcss",
+  "main": "index.js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terpomoj/tailwindcss-writing-mode.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "writing-mode",
+    "cjk"
+  ],
+  "author": "BinotaLIU <me@binota.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terpomoj/tailwindcss-writing-mode/issues"
+  },
+  "homepage": "https://github.com/terpomoj/tailwindcss-writing-mode#readme",
+  "peerDependencies": {
+    "tailwindcss": "^2.0.0"
+  }
+}
